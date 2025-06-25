@@ -40,7 +40,7 @@ This project involved the forensic analysis of an Android device image. I extrac
 - SQLite database analysis  
 - Timeline reconstruction and integrity validation
 
-[Go to Project Folder](./Android-Forensics)
+[Go to Project Folder](https://github.com/olubunmmy/Android-Forensic-Image-Analysis/blob/main/README.md)
 
 ---
 
