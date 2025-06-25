@@ -8,7 +8,7 @@ These projects were completed as part of my course wrap-up and showcase both pra
 
 ## Table of Contents
 
-1. [Virtual Cybersecurity Lab](#1https://github.com/olubunmmy/Virtual-Cybersecurity-Lab/blob/main/README.md)
+1. [Virtual Cybersecurity Lab](#1-https://github.com/olubunmmy/Virtual-Cybersecurity-Lab/blob/main/README.md)
 2. [Android Forensic Image Analysis](#2-android-forensic-image-analysis)
 3. [Virtual Firewall Simulation](#3-virtual-firewall-simulation)
 
