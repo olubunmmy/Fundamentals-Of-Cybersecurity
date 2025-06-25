@@ -55,7 +55,7 @@ This project simulates an enterprise-grade firewall in a virtual lab. The firewa
 - Log analysis and simulation of real-world threats  
 - Understanding of segmentation and perimeter defense
 
-[Go to Project Folder](./Firewall-Simulation)
+[Go to Project Folder](https://github.com/olubunmmy/Firewall-stimulation-DSA/blob/main/README.md)
 
 ---
 
