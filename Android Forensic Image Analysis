@@ -64,15 +64,7 @@ Insert screenshot of recovered SMS in forensic tool
 Insert screenshot of call log database in SQLite viewer  
 Insert screenshot of browsing history timeline
 
-Project Folder Structure  
-android-forensics  
-├── Reports  
-│   └── Android_Forensic_Investigation_Report.pdf  
-├── Extracted-Artifacts  
-├── Screenshots  
-├── README.md  
-├── notes.md  
-├── hashes.txt
+
 
 Outcomes  
 - Recovered multiple mobile artifacts for analysis  
