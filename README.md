@@ -25,7 +25,7 @@ This project documents the setup of a fully functional virtual cybersecurity lab
 - Vulnerability scanning  
 - Penetration testing workflow
 
-[Go to Project Folder](./Virtual-Cybersecurity-Lab)
+[Go to Project Folder](https://github.com/olubunmmy/Virtual-Cybersecurity-Lab)
 
 ---
 
