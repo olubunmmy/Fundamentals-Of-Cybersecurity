@@ -20,10 +20,43 @@ These projects were completed as part of my course wrap-up and showcase both pra
 This project documents the setup of a fully functional virtual cybersecurity lab for testing tools, simulating attacks, and performing vulnerability analysis. It includes an attacker machine, a vulnerable target system, and internal networking in a controlled virtual environment.
 
 **Key Skills Demonstrated:**  
-- Virtual machine configuration  
-- Network segmentation  
-- Vulnerability scanning  
-- Penetration testing workflow
+##  Key Skills Demonstrated
+
+-  **Virtualization Setup**
+  - Installed and configured virtual machines using **Oracle VirtualBox**
+  - Created and managed isolated environments for safe cybersecurity testing
+
+-  **Cybersecurity Fundamentals**
+  - Simulated attack and defense scenarios in a contained virtual lab
+  - Practiced concepts like threat detection and system hardening
+
+-  **Digital Forensics**
+  - Conducted forensic investigations using **Autopsy**
+  - Recovered deleted files and analyzed user activity on disk images
+
+-  **Network Monitoring**
+  - Captured and examined network traffic using **Wireshark**
+  - Identified suspicious communication patterns and protocols
+
+-  **Linux System Usage**
+  - Installed and navigated **Ubuntu** and **Kali Linux** environments
+  - Used both command-line and GUI tools for lab tasks
+
+-  **Problem Solving**
+  - Troubleshot installation and configuration challenges
+  - Adapted tools and settings to meet lab objectives
+
+-  **Documentation & Reporting**
+  - Documented all setup steps and forensic findings
+  - Created organized notes, screenshots, and reports for portfolio use
+
+-  **Research & Initiative**
+  - Researched tools and ethical cybersecurity practices independently
+  - Kept lab aligned with real-world cybersecurity use cases
+
+-  **Project Planning**
+  - Designed the lab layout with attacker, target, and analyst roles
+  - Maintained a structured file and case management system
 
 [Go to Project Folder](https://github.com/olubunmmy/Virtual-Cybersecurity-Lab)
 
