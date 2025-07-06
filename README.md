@@ -10,7 +10,7 @@ These projects were completed as part of my course wrap-up and showcase both pra
 
 1. [Virtual Cybersecurity Lab](#1-Virtual-Cybersecurity-Lab)
 2. [Android Forensic Image Analysis](#2-android-forensic-image-analysis)
-3. [Virtual Firewall Simulation](#3-virtual-firewall-simulation)
+3. [Network Security Simulation with a Virtual Firewall](#3-virtual-firewall-simulation)
 
 ---
 
@@ -77,7 +77,7 @@ This project involved the forensic analysis of an Android device image. I extrac
 
 ---
 
-## 3. Virtual Firewall Simulation
+## 3. Network Security Simulation with a Virtual Firewall
 
 **Description:**  
 This project simulates an enterprise-grade firewall in a virtual lab. The firewall was configured with access control policies, NAT, and intrusion detection. Network activity was logged and analyzed following a simulated attack scenario.
