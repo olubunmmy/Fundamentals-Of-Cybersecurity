@@ -67,15 +67,9 @@ This project documents the setup of a fully functional virtual cybersecurity lab
 **Description:**  
 This project involved the forensic analysis of an Android device image. I extracted digital artifacts such as SMS, call logs, browser history, and application data, then reconstructed a timeline of user activity and compiled a professional forensic report.
 
-**Key Skills Demonstrated:**  
-- Forensic investigation techniques  
-- Data extraction from Android images  
-- SQLite database analysis  
-- Timeline reconstruction and integrity validation
-
 [Go to Project Folder](https://github.com/olubunmmy/Android-Forensic-Image-Analysis/blob/main/README.md)
 
----
+
 
 ## 3. Network Security Simulation with a Virtual Firewall
 
@@ -90,15 +84,13 @@ This project simulates an enterprise-grade firewall in a virtual lab. The firewa
 
 [Go to Project Folder](https://github.com/olubunmmy/Firewall-stimulation-DSA/blob/main/README.md)
 
----
+
 
 ## Acknowledgement
 
 These projects were completed as part of the **Fundamentals of Cybersecurity** course offered through **Digital SkillUp Africa**, powered by **The Incubator Hub**. The program provided foundational knowledge and practical experience in cybersecurity concepts, tools, and ethical practice.
 
----
 
-## Contact
 
-If you would like to know more about these projects or my journey in cybersecurity, feel free to reach out via GitHub or connect with me professionally.
+
 
