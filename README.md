@@ -1,4 +1,4 @@
-# Cybersecurity Fundamentals Projects
+# Cybersecurity Fundamentals DSA Projects
 
 This repository contains a compilation of my final projects from the **Digital SkillUp Africa - Fundamentals of Cybersecurity** program powered by **The Incubator Hub**. Each project demonstrates a different area of hands-on cybersecurity knowledge, including network simulation, digital forensics, and security policy implementation.
 
